@@ -1,0 +1,45 @@
+.slider1{
+   background-size: cover;
+    background-repeat: no-repeat;
+   
+    position: relative;
+}
+
+.slider1::before{
+   
+    content: ' ';
+    top: 0;
+   left: 0;
+    width: 100%;
+    height:100%;
+    position: absolute;
+    background-color: rgba(0,0,0,0.8);
+}
+.images{
+    position: relative;
+   max-height: 25%;
+    max-width: 25%;
+    margin: 2%;
+    border-radius: 5%;
+
+}
+
+.images1{
+    position: relative;
+   max-height: 10%;
+    max-width: 25%;
+    margin: 2%;
+    margin-bottom: 3%;
+    border-radius: 5%;
+
+}
+
+.images2{
+    position: relative;
+   max-height: 10%;
+    max-width: 25%;
+    margin: 2%;
+    margin-bottom: 12%;
+    border-radius: 5%;
+
+}

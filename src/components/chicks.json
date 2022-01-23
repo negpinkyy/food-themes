@@ -1,0 +1,32 @@
+[
+    {
+        "id": 8,
+        "images": "./image/chick-5.jpg",
+        "titles": "chicken",
+        "ganisheds": "pepper",
+        "requests": "Place Your Order"
+    },
+
+    {
+        "id": 7,
+        "images": "./image/chick-6.jpg",
+        "titles": "chicken",
+        "ganisheds": "pepper",
+        "requests": "Place Your Order"
+    },
+
+    {
+        "id": 6,
+        "images": "./image/chick-7.jpg",
+        "titles": "chicken",
+        "ganisheds": "pepper",
+        "requests": "Place Your Order"
+    },
+    {
+        "id": 5,
+        "images": "./image/chick-8.jpg",
+        "titles": "chicken",
+        "ganisheds": "pepper",
+        "requests": "Place Your Order"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "image": "./image/burger-10.jpg",
+      "title": "Bell Bottom",
+      "actor": "Akshay Kumar"
+    },
+    {
+      "id": 2,
+      "image": "./image/burger-4.jpg",
+      "title": "Shershah",
+      "actor": "Kiara"
+    },
+    {
+      "id": 3,
+      "image": "./image/burger-3.jpg",
+      "title": "Sultan",
+      "actor": "Salman Khan"
+    },
+    {
+    "id" : 4,
+    "image": "./image/burger-10.jpg",
+    "title": "Thappad",
+    "actor": "Tapsee Pannu"
+  }
+]
+ 
+ 
